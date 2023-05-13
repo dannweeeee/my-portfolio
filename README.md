@@ -1,1 +1,1 @@
-# MyPortfolio - a 3D Portfolio Website
+#My Personal 3D Portfolio Website
