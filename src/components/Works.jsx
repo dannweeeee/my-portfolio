@@ -70,7 +70,7 @@ const Works = () => {
         <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'>
           Discover my skills and expertise through the following collection of school and personal projects that I have worked on. 
           Each project is described in brief and accompanied by links to its code repository, with some projects featuring a live demo.
-          Through these projects, I demonstrate my proficiency in programming langaugages, ability to solve complex problems, and aptitude for managing projects effectively.
+          Through these projects, I demonstrate my proficiency in programming, ability to solve complex problems, and aptitude for managing projects effectively.
         </motion.p>
       </div>
 

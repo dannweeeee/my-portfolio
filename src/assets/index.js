@@ -16,11 +16,13 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
-import solidity from "./tech/solidity.png";
+import threejs from "./tech/threejs.png";
+import solidity from "./tech/solidity.svg";
 import python from "./tech/python.png";
 import cprogram from "./tech/cprogram.png";
 import cplusplus from "./tech/c++.png";
+import sql from "./tech/sql.png";
+import django from "./tech/django.png";
 
 import ey from "./company/ey.svg";
 import elastos from "./company/elastos.png";
@@ -54,6 +56,8 @@ export {
   python,
   cprogram,
   cplusplus,
+  sql,
+  django,
   ey,
   elastos,
   saf,

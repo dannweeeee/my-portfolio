@@ -17,6 +17,8 @@ import {
     cprogram,
     cplusplus,
     threejs,
+    sql,
+    django,
     ey,
     elastos,
     saf,
@@ -116,6 +118,14 @@ import {
     {
       name: "solidity",
       icon: solidity,
+    },
+    {
+      name: "sql",
+      icon: sql,
+    },
+    {
+      name: "django",
+      icon: django,
     },
   ];
   
