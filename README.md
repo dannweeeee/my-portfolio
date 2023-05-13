@@ -1,6 +1,6 @@
 # My Personal 3D Portfolio
 ![3DPortfolio](https://github.com/dannweeeee/MyPortfolio/assets/42776950/2f76edf1-09b1-4e3a-8adc-6bd187be252f)
-## Built and Deployed my own website portfolio
+### Built and Deployed my own website portfolio
 **Link: https://dannwee.com/** <br>
 <br>
 What I used to develop my portfolio: <br>
