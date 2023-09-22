@@ -10,4 +10,4 @@ What I used to develop my portfolio: <br>
 * **Framer Motion** - The most popular library used to bring your React website to life with animations <br>
 * **EmailJS** - Implement sending emails through a form on the website <br>
 
-I also ensured responsiveness across all devices and improve your site's performance using **Suspense** and **Preload**. <br>
+I also ensured responsiveness across all devices and improve my website performance using **Suspense** and **Preload**. <br>
