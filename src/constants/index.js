@@ -23,9 +23,12 @@ import {
     elastos,
     saf,
     adactiveasia,
-    youview,
-    simpleregistry,
-    mobilma,
+    wildchain,
+    defistablecoin,
+    threads,
+    dynamicnfts,
+    ey_testi,
+    adactiveasia_testi,
   } from "../assets";
   
   export const navLinks = [
@@ -134,59 +137,68 @@ import {
       title: "IT Development Intern",
       company_name: "Ernst & Young | FinTech ASEAN",
       icon: ey,
-      iconBg: "#383E56",
+      iconBg: "#818589",
       date: "March 2018 - August 2018",
       points: [
-        "Establish EY's FinTech capabilities across ASEAN and strengthening the FinTech ecosystem in the region.",
-        "Assisted in organising and collaborating with Monetary Authority Singapore (MAS) for the Singapore FinTech Festival – Investor Summit 2018.",
-        "Generated marketing collaterals such as Comics, Videos, Infographics for investor & start-up relations.",
-        "Assisted in building several essential investor-start-up project decks for team to propose to clients.",
-        "Prepared a Proof-of-Concept Kit consisting of more than 20 PoC solutions.",
-        "Facilitated in conceptualising and launching of the EY FinTech Hub, a digital marketplace for financial institutions to discover and procure solutions in domains of RegTech, Blockchain, Lending, Artificial Intelligence, Payments, Cyber Security, WealthTech, InsurTech and Open Banking.",
-
+        "I was part of the Core Business Services (APAC FinTech) Team in Ernst & Young that bridges the gap of startups and investors in the FinTech ecosystem.",
+        "We conceptualised and launched the EY FinTech Hub Website, a digital marketplace for financial institutions to discover and procure solutions in multiple domains of FinTech.",
+        "The EY FinTech Hub Website used HTML, CSS, and JavaScript to create a responsive mock website (before EY KYC) that was compatible with all devices."
       ],
     },
     {
-      title: "Blockchain Tech Evangelist",
+      title: "Community Manager",
       company_name: "Elastos | Web3",
       icon: elastos,
-      iconBg: "#E6DEDD",
+      iconBg: "#818589",
       date: "August 2018 - October 2018",
       points: [
-        "Co-organiser of an Elastos event held in Singapore with over 80 participants.",
-        "Promoted uses of the Blockchain Technology to 50 software developers and blockchain enthusiasts.",
-        "Developed a communication channel with 45 members to disseminate information and announcements.",
-        "Raised awareness for Elastos Blockchain system to encourage software developers to code dApps on the Elastos Blockchain Ecosystem.",
+        "I was part of the Elastos Singapore Community Team.",
+        "Created a Telegram communication channel with over 45 members.",
+        "Co-organised an Elastos event held in SMU Singapore with over 80 participants.",
+        "The event's goal was to attract Web3 Builders to develop dApps on the Elastos Blockchain Network."
       ],
     },
     {
-      title: "Platoon Instructor",
-      company_name: "Singapore Armed Forces (SAF)",
+      title: "Lieutenant",
+      company_name: "Singapore Armed Forces | Army",
       icon: saf,
-      iconBg: "#383E56",
+      iconBg: "#818589",
       date: "September 2020 - August 2021",
       points: [
-        "Planned and facilitated over 20 physically intensive trainings with proper safety management.",
-        "Administered meaningful, effective, and safe trainings for 300 trainees.",
-        "Supervised platoon’s welfare, training, and operations of over 100 personnel in total.",
-        "Regulated the Covid-19 operational plan of over 300 personnel in total.",
-        "Participated in National Day Parade 2021 as the SAFTI Ensign, Colours Party.",
+        "I was part of the Singapore Armed Forces (SAF) as an Infantry Lieutenant in the Singapore Army.",
+        "Posted to Officer Cader School as a Platoon Instructor to train and develop future SAF Officers.",
+        "Administered meaningful, effective, and safe trainings for 300 trainees throughout my service.",
+        "Regulated the Covid-19 operational plan during the pandemic to ensure the safety of all personnel.",
+        "Participated in Singapore National Day Parade 2021 as the SAFTI Ensign, Colours Party.",
       ],
     },
     {
-      title: "Growth Markets Intern",
+      title: "Marketing Intern",
       company_name: "Adactive Asia | Web3",
       icon: adactiveasia,
-      iconBg: "#E6DEDD",
+      iconBg: "#818589",
       date: "May 2022 - August 2022",
       points: [
-        "Establish Adactive Asia's Web3 network-building application called Wanderverse",
-        "Designed several Web3 marketing collaterals for Facebook, Instagram, Twitter and Discord.",
-        "Refined multiple essential investor decks and marketing decks to attract more partnerships.",
+        "I was part of the Web3 Marketing Team of Adactive Asia that was in charge of managing the Wanderverse community on Facebook, Twitter/X, Instagram, Discord and Telegram Channels.",
+        "Wanderverse was a Web3 network-building application that is built on the Polygon Blockchain Network.",
+        "We worked closely with Polygon Technology to churn out marketing collaterals for the launch of Wanderverse.",
+        "Refined multiple essential investor decks and marketing decks to attract more investors and merchant partnerships.",
         "Conducted intensive research in Web3 Development, Smart Contracts and Tokenomics.",
-        "Outsourced to over 200 merchants and charity organisations for partnerships.",
-        "Liaised with Polygon Blockchain’s Marketing Team to develop marketing strategies for the Web3 Mobile Application.",
-        "Constructed an informative website using HTML and CSS",
+        "Constructed an informative website using HTML, CSS and Javascript",
+      ],
+    },
+    {
+      title: "Web3 Developer Intern",
+      company_name: "Wildchain | Web3",
+      icon: wildchain,
+      iconBg: "#E6DEDD",
+      date: "July 2023 - Present",
+      points: [
+        "I am currently still working as a Web3 Developer Intern in Wildchain.",
+        "Part of the Web3 Development Team of Wildchain that is in charge of developing Wildchain's Web3 Infrastructure",
+        "Currently working on the Wildchain's Multichain Dynamic NFT Marketplace that is built on the Celo Blockchain Network",
+        "Prior to this, I worked on the smart contracts for Wildchain's DAO Governance that is in charge of managing the Wildfund Treasury",
+        "I also research and document on Web3 Development Ideas and Concepts to improve the Wildchain's Web3 Infrastructure",
       ],
     },
   ];
@@ -194,93 +206,112 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Dann is a talented, well-spoken and inquisitive individual. He is willing to try out new tools and is adaptive to change.",
+      name: "Varun Mittal",
+      designation: "FinTech Leader",
+      company: "Ernst & Young",
+      image: ey_testi,
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Dann consistently demonstrated a strong work ethic, a proactive attitude, and a genuine passion for the Web3 industry. ",
+      name: "Teo Yu Hang",
+      designation: "CEO",
+      company: "Adactive Asia",
+      image: adactiveasia_testi,
     },
   ];
   
   const projects = [
     {
-      name: "YouView",
+      name: "DeFi Stablecoin",
       description:
-        "A tool for YouTube content creators to optimise their videos and grow their channels based on views.",
-      tags: [
-        {
-          name: "JupyterNotebook",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Python",
-          color: "green-text-gradient",
-        },
-        {
-          name: "DataAnalysis",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: youview,
-      source_code_link: "https://github.com/dannweeeee/SC1015_YouView",
-    },
-    {
-      name: "Moblima",
-      description:
-        "A 3-in-1 online movie console application called MOvie Booking and LIsting Management Application (MOBLIMA).",
-      tags: [
-        {
-          name: "Java",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JavaDoc",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: mobilma,
-      source_code_link: "https://github.com/dannweeeee/SC2002_MOBLIMA",
-    },
-    {
-      name: "Simple Registry",
-      description:
-        "A Simple Name Registry created using Solidity with State Inheritance Testing Approach",
+        "A Foundry DeFi Stablecoin Project (Pegged && Algorithmic && Exogenous) - Deployed on Sepolia Testnet",
       tags: [
         {
           name: "Solidity",
           color: "blue-text-gradient",
         },
         {
-          name: "Blockchain",
+          name: "Foundry",
           color: "green-text-gradient",
         },
         {
-          name: "SmartContracts",
+          name: "Stablecoin",
           color: "pink-text-gradient",
         },
+        {
+          name: "Fuzz-Testing",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "Chainlink",
+          color: "orange-text-gradient",
+        },
       ],
-      image: simpleregistry,
-      source_code_link: "https://github.com/dannweeeee/SimpleRegistry",
+      image: defistablecoin,
+      source_code_link: "https://github.com/dannweeeee/foundry-defi-stablecoin-f23",
+      website_link: "https://sepolia.etherscan.io/address/0x6b09db0dfc4c45f731a6dff1487bc495b026385c#code",
+    },
+    {
+      name: "Threads Clone",
+      description:
+        "A Full Stack MERN Next.JS 13 Threads Clone Web Application Powered By React | NextJS | TypeScript | MongoDB",
+        tags: [
+          {
+            name: "ReactJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "NextJS",
+            color: "green-text-gradient",
+          },
+          {
+            name: "TypeScript",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "TailwindCSS",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "MongoDB",
+            color: "orange-text-gradient",
+          },
+        ],
+        image: threads,
+        source_code_link: "https://github.com/dannweeeee/threads",
+        website_link: "https://threads-by-dann.vercel.app/",
+    },
+    {
+      name: "Dynamic NFTs",
+      description:
+        "A Foundry ERC721 NFT Project - Created Dynamic SVG NFTs && IPFS Hosted PNG NFT - Deployed on Sepolia Testnet",
+        tags: [
+          {
+            name: "Solidity",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "Foundry",
+            color: "green-text-gradient",
+          },
+          {
+            name: "NFT",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "ERC721",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "SVG",
+            color: "orange-text-gradient",
+          },
+        ],
+        image: dynamicnfts,
+        source_code_link: "https://github.com/dannweeeee/foundry-nft-f23",
+        website_link: "https://sepolia.etherscan.io/address/0x3c71c7fe7bf493aa4ad402e047301eaec5f89d2a",
     },
   ];
   

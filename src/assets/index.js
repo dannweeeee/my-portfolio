@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import hyperlink from "./hyperlink.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -28,10 +29,14 @@ import ey from "./company/ey.svg";
 import elastos from "./company/elastos.png";
 import saf from "./company/saf.png";
 import adactiveasia from "./company/adactiveasia.png";
+import wildchain from "./company/wildchain.png";
 
-import youview from "./youview.png";
-import simpleregistry from "./simpleregistry.png";
-import mobilma from "./moblima.png";
+import defistablecoin from "./defistablecoin.png";
+import threads from "./threads.png";
+import dynamicnfts from "./dynamicnfts.png";
+
+import adactiveasia_testi from "./testimonials/adactiveasia_testi.jpg";
+import ey_testi from "./testimonials/ey_testi.jpeg";
 
 export {
   logo,
@@ -40,6 +45,7 @@ export {
   mobile,
   web,
   github,
+  hyperlink,
   menu,
   close,
   css,
@@ -62,7 +68,10 @@ export {
   elastos,
   saf,
   adactiveasia,
-  youview,
-  simpleregistry,
-  mobilma,
+  wildchain,
+  defistablecoin,
+  threads,
+  dynamicnfts,
+  adactiveasia_testi,
+  ey_testi,
 };
