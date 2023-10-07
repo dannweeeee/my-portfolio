@@ -308,6 +308,10 @@ import {
             name: "SVG",
             color: "orange-text-gradient",
           },
+          {
+            name: "IPFS",
+            color: "purple-text-gradient",
+          },
         ],
         image: dynamicnfts,
         source_code_link: "https://github.com/dannweeeee/foundry-nft-f23",
