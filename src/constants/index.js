@@ -18,7 +18,7 @@ import {
     cplusplus,
     threejs,
     sql,
-    django,
+    ipfs,
     ey,
     elastos,
     saf,
@@ -45,15 +45,15 @@ import {
   
   const services = [
     {
-      title: "Software Developer",
+      title: "Software Engineer",
       icon: web,
     },
     {
-      title: "Tech Enthusiast",
+      title: "Web3 Developer",
       icon: creator,
     },
     {
-      title: "Web3 Evangelist",
+      title: "Content Writer",
       icon: backend,
     },
     {
@@ -104,6 +104,10 @@ import {
       icon: tailwind,
     },
     {
+      name: "solidity",
+      icon: solidity,
+    },
+    {
       name: "Node JS",
       icon: nodejs,
     },
@@ -116,16 +120,12 @@ import {
       icon: figma,
     },
     {
-      name: "solidity",
-      icon: solidity,
-    },
-    {
       name: "sql",
       icon: sql,
     },
     {
-      name: "django",
-      icon: django,
+      name: "ipfs",
+      icon: ipfs,
     },
   ];
   

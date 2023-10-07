@@ -22,7 +22,7 @@ import python from "./tech/python.png";
 import cprogram from "./tech/cprogram.png";
 import cplusplus from "./tech/c++.png";
 import sql from "./tech/sql.png";
-import django from "./tech/django.png";
+import ipfs from "./tech/ipfs.png";
 
 import ey from "./company/ey.svg";
 import elastos from "./company/elastos.png";
@@ -57,7 +57,7 @@ export {
   cprogram,
   cplusplus,
   sql,
-  django,
+  ipfs,
   ey,
   elastos,
   saf,

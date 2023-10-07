@@ -32,10 +32,10 @@ const About = () => {
         </h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        As someone with a deep passion for technology and an innate sense of curiosity, I find myself constantly immersed in exploring new technologies and projects during my free time. 
-        I derive great satisfaction from tackling problems that challenge my conceptual thinking and creativity. 
-        Moreover, I relish the opportunities to expand my knowledge and gain valuable insights through self-directed learning and collaboration.
-        Let's connect and work together to create something amazing!
+        Inspired by the positive impact technology can bring to the world, I&apos;m passionate about innovation and digital transformation 🤓
+        I aim to one day be able to contribute through my work and create out-of-the-box technological solutions to solve our current realworld problems 😌 <br />
+        <br />
+        Currently, my days are devoted to bringing Full Stack Web Projects 🌐 to life, while also diving into Web3 Development ⛓️ and documenting research on technological trends 📈
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
