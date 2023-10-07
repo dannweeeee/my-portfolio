@@ -5,7 +5,8 @@
 
 This project is an embodiment of cutting-edge web development, seamlessly integrating the powerful Three.js library with the robust framework of React.js. <br>
 <br>
-Visit the Deployed 3D Portfolio Website at: https://dannwee.com/
+Visit the Deployed 3D Portfolio Website at: https://dannwee.com/ <br />
+Video Demo at: https://x.com/dannweeeee/status/1710717154134471059?s=46&t=77hn9OHdI0vD2CVBt2lsIA
 
 ## Features
 
