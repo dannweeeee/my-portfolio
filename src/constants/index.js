@@ -29,6 +29,8 @@ import {
     dynamicnfts,
     ey_testi,
     adactiveasia_testi,
+    sagacious,
+    blockchainatntu
   } from "../assets";
   
   export const navLinks = [
@@ -318,5 +320,50 @@ import {
         website_link: "https://sepolia.etherscan.io/address/0x3c71c7fe7bf493aa4ad402e047301eaec5f89d2a",
     },
   ];
+
+  const newsletters = [
+    {
+      name: "Sagacious by Dann",
+      description:
+        "My Personal Newsletter on Blockchain Web3 Development, and Cryptocurrency",
+      tags: [
+        {
+          name: "Blockchain",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Cryptocurrency",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Web3",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: sagacious,
+      website_link: "https://paragraph.xyz/@dannweeeee",
+    },
+    {
+      name: "Blockchain at NTU",
+      description:
+        "Blockchain at NTU Newsletter that covers Blockchain 101, DeFi Protocols and Web3 News",
+        tags: [
+          {
+            name: "Blockchain101",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "DeFi",
+            color: "green-text-gradient",
+          },
+          {
+            name: "News",
+            color: "pink-text-gradient",
+          },
+        ],
+        image: blockchainatntu,
+        website_link: "https://paragraph.xyz/@ntublockchain",
+    },
+  ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, newsletters };

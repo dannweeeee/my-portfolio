@@ -38,6 +38,9 @@ import dynamicnfts from "./dynamicnfts.png";
 import adactiveasia_testi from "./testimonials/adactiveasia_testi.jpg";
 import ey_testi from "./testimonials/ey_testi.jpeg";
 
+import sagacious from "./sagacious.png";
+import blockchainatntu from "./blockchainatntu.png";
+
 export {
   logo,
   backend,
@@ -74,4 +77,6 @@ export {
   dynamicnfts,
   adactiveasia_testi,
   ey_testi,
+  sagacious,
+  blockchainatntu
 };
