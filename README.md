@@ -1,4 +1,4 @@
-# Professional 3D Portfolio: A Fusion of Three.js and React.js Mastery
+# 3D Website Portfolio
 <img width="1440" alt="Screenshot 2023-10-08 at 1 36 17 AM" src="https://github.com/dannweeeee/MyPortfolio/assets/42776950/154087a3-5764-4e3a-8f30-44ce2d26330f">
 
 ## Overview
