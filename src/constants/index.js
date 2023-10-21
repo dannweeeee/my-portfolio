@@ -325,7 +325,7 @@ import {
     {
       name: "Sagacious by Dann",
       description:
-        "My Personal Newsletter on Blockchain Web3 Development, and Cryptocurrency",
+        "Launched a Personal Newsletter that delves into topics ranging from Blockchain Protocols and Software Development to the latest developments in Tech",
       tags: [
         {
           name: "Blockchain",
@@ -346,7 +346,7 @@ import {
     {
       name: "Blockchain at NTU",
       description:
-        "Blockchain at NTU Newsletter that covers Blockchain 101, DeFi Protocols and Web3 News",
+        "Kickstarted a Blockchain at NTU Newsletter that delves into topics ranging from Blockchain 101 and DeFi Protocols to the latest developments in Web3",
         tags: [
           {
             name: "Blockchain101",
