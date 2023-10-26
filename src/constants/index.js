@@ -175,7 +175,7 @@ import {
       ],
     },
     {
-      title: "Marketing Intern",
+      title: "Web3 Marketing Intern",
       company_name: "Adactive Asia | Web3",
       icon: adactiveasia,
       iconBg: "#818589",
