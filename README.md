@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is an embodiment of cutting-edge web development, seamlessly integrating the powerful Three.js library with the robust framework of React.js. <br>
+Dann's Portfolio Website Powered by React, ThreeJS and TailwindCSS. <br>
 <br>
 Visit the Deployed 3D Portfolio Website at: https://dannwee.com/ <br />
 <br />
