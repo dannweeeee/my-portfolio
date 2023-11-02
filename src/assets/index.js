@@ -31,6 +31,9 @@ import saf from "./company/saf.png";
 import adactiveasia from "./company/adactiveasia.png";
 import wildchain from "./company/wildchain.png";
 
+import metacord from "./metacord.png";
+import notaite from "./notaite.png";
+import foodie from "./foodie.png";
 import defistablecoin from "./defistablecoin.png";
 import threads from "./threads.png";
 import dynamicnfts from "./dynamicnfts.png";
@@ -72,6 +75,9 @@ export {
   saf,
   adactiveasia,
   wildchain,
+  metacord,
+  notaite,
+  foodie,
   defistablecoin,
   threads,
   dynamicnfts,

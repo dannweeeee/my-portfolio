@@ -24,6 +24,9 @@ import {
     saf,
     adactiveasia,
     wildchain,
+    metacord,
+    notaite,
+    foodie,
     defistablecoin,
     threads,
     dynamicnfts,
@@ -226,6 +229,108 @@ import {
   
   const projects = [
     {
+      name: "Metacord",
+      description:
+        "A Full Stack Instant Messaging and VoIP Social Platform Powered By React | NextJS 13 | TypeScript | Socket.io | Prisma | MySQL",
+        tags: [
+          {
+            name: "ReactJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "NextJS",
+            color: "green-text-gradient",
+          },
+          {
+            name: "TypeScript",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "Socket.io",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "Prisma",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "MySQL",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: metacord,
+        source_code_link: "https://github.com/dannweeeee/metacord",
+        website_link: "https://metacord.up.railway.app/",
+    },
+    {
+      name: "NotAIte",
+      description:
+        "A Full Stack AI Note-Taking Tool Powered By React | NextJS 13 | DALL-E | DrizzleORM | OpenAI | TypeScript | Firebase",
+        tags: [
+          {
+            name: "ReactJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "NextJS",
+            color: "green-text-gradient",
+          },
+          {
+            name: "TypeScript",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "Firebase",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "DrizzleORM",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "OpenAI",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: notaite,
+        source_code_link: "https://github.com/dannweeeee/notaite",
+        website_link: "https://notaite-by-dann.vercel.app/",
+    },
+    {
+      name: "Foodie",
+      description:
+        "A Full Stack Location-Based Tool Powered By React | NextJS 13 | Google Maps API | TailwindCSS | NextAuth",
+        tags: [
+          {
+            name: "ReactJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "NextJS",
+            color: "green-text-gradient",
+          },
+          {
+            name: "JavaScript",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "Google Maps API",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "TailwindCSS",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "NextAuth",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: foodie,
+        source_code_link: "https://github.com/dannweeeee/foodie",
+        website_link: "https://foodie-by-dann.vercel.app/",
+    },
+    {
       name: "DeFi Stablecoin",
       description:
         "A Foundry DeFi Stablecoin Project (Pegged && Algorithmic && Exogenous) - Deployed on Sepolia Testnet",
@@ -258,7 +363,7 @@ import {
     {
       name: "Threads Clone",
       description:
-        "A Full Stack MERN Next.JS 13 Threads Clone Web Application Powered By React | NextJS | TypeScript | MongoDB",
+        "A Full Stack MERN Next.JS 13 Threads Clone Web Application Powered By React | NextJS 13 | TypeScript | MongoDB",
         tags: [
           {
             name: "ReactJS",
