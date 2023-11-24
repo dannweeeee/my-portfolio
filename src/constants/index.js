@@ -184,7 +184,7 @@ import {
       iconBg: "#818589",
       date: "May 2022 - August 2022",
       points: [
-        "I was part of the Web3 Marketing Team of Adactive Asia that was in charge of managing the Wanderverse community on Facebook, Twitter/X, Instagram, Discord and Telegram Channels.",
+        "I was part of the Web3 Community Development Team of Adactive Asia that was in charge of managing the Wanderverse community on Facebook, Twitter/X, Instagram, Discord and Telegram Channels.",
         "Wanderverse was a Web3 network-building application that is built on the Polygon Blockchain Network.",
         "We worked closely with Polygon Technology to churn out marketing collaterals for the launch of Wanderverse.",
         "Refined multiple essential investor decks and marketing decks to attract more investors and merchant partnerships.",
