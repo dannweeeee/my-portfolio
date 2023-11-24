@@ -57,15 +57,15 @@ import {
       icon: web,
     },
     {
-      title: "Web3 Developer",
+      title: "Full Stack Developer",
       icon: creator,
     },
     {
-      title: "Content Writer",
+      title: "Web3 Builder",
       icon: backend,
     },
     {
-      title: "Conceptual Thinker",
+      title: "Content Writer",
       icon: mobile,
     },
   ];
@@ -139,8 +139,8 @@ import {
   
   const experiences = [
     {
-      title: "IT Development Intern",
-      company_name: "Ernst & Young | FinTech ASEAN",
+      title: "Information Technology Development Intern",
+      company_name: "Ernst & Young | APAC FinTech",
       icon: ey,
       iconBg: "#818589",
       date: "March 2018 - August 2018",
@@ -178,7 +178,7 @@ import {
       ],
     },
     {
-      title: "Web3 Marketing Intern",
+      title: "Community Development Intern",
       company_name: "Adactive Asia | Web3",
       icon: adactiveasia,
       iconBg: "#818589",
@@ -193,7 +193,7 @@ import {
       ],
     },
     {
-      title: "Web3 Developer Intern",
+      title: "Full Stack Web3 Developer Intern",
       company_name: "Wildchain | Web3",
       icon: wildchain,
       iconBg: "#E6DEDD",
