@@ -139,7 +139,7 @@ import {
   
   const experiences = [
     {
-      title: "Information Technology Development Intern",
+      title: "FinTech Development Intern",
       company_name: "Ernst & Young | APAC FinTech",
       icon: ey,
       iconBg: "#818589",
