@@ -199,11 +199,12 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2023 - Present",
       points: [
-        "I am currently still working as a Web3 Developer Intern in Wildchain.",
-        "Part of the Web3 Development Team of Wildchain that is in charge of developing Wildchain's Web3 Infrastructure",
-        "Currently working on the Wildchain's Multichain Dynamic NFT Marketplace that is built on the Celo Blockchain Network",
-        "Prior to this, I worked on the smart contracts for Wildchain's DAO Governance that is in charge of managing the Wildfund Treasury",
+        "I am currently still working as a Full Stack Web3 Developer Intern in Wildchain.",
+        "Part of the Web Development Team of Wildchain that is in charge of developing Wildchain's Web3 Infrastructure",
+        "Developed Wildchain's Multichain Dynamic NFT Marketplace that is built on the Celo Blockchain Network",
+        "Prior to this, I worked on smart contracts for Wildchain's DAO Governance that is in charge of managing the Wildfund Treasury",
         "I also research and document on Web3 Development Ideas and Concepts to improve the Wildchain's Web3 Infrastructure",
+        "Currently, I am working on the Backend of Wildchain's Web Infrastructure using NodeJS, MongoDB and REST APIs"
       ],
     },
   ];
