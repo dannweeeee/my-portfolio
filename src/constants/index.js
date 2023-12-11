@@ -30,6 +30,9 @@ import {
     defistablecoin,
     threads,
     dynamicnfts,
+    zuko,
+    loopso,
+    chainin,
     ey_testi,
     adactiveasia_testi,
     sagacious,
@@ -427,6 +430,114 @@ import {
     },
   ];
 
+  const hackathons = [
+    {
+      name: "Zuko",
+      description:
+        "A Permissionless, Privacy-Focused social dApp built for ETH Global Online 2023 Hackathon",
+        tags: [
+          {
+            name: "NextJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "TypeScript",
+            color: "green-text-gradient",
+          },
+          {
+            name: "ExpressJS",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "NodeJS",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "Sismo",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "Tableland",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: zuko,
+        source_code_link: "https://github.com/usezuko",
+        website_link: "https://zuko-zk.netlify.app/",
+        submission_link: "https://ethglobal.com/showcase/zuko-cx92f"
+    },
+    {
+      name: "LOOPSO",
+      description:
+        "A Cross-chain, Bi-directional Bridge Protocol for LUKSO built for buidlbox BuildUp #2 Hackathon ",
+        tags: [
+          {
+            name: "NextJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "TypeScript",
+            color: "green-text-gradient",
+          },
+          {
+            name: "Solidity",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "Golang",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "Lukso",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "Bridge",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: loopso,
+        source_code_link: "https://github.com/useloopso",
+        website_link: "https://loopso.xyz/",
+        submission_link: "https://app.buidlbox.io/projects/loopso"
+    },
+    {
+      name: "ChainIn",
+      description:
+        "An Authenticity-Driven, Privacy-Focused Business & Employment Aggregator dApp built for Chainlink Constellation Hackathon",
+        tags: [
+          {
+            name: "NextJS",
+            color: "blue-text-gradient",
+          },
+          {
+            name: "Tableland",
+            color: "green-text-gradient",
+          },
+          {
+            name: "Solidity",
+            color: "pink-text-gradient",
+          },
+          {
+            name: "Chainlink CCIP",
+            color: "yellow-text-gradient",
+          },
+          {
+            name: "The Graph",
+            color: "orange-text-gradient",
+          },
+          {
+            name: "Polygon ID",
+            color: "purple-text-gradient",
+          },
+        ],
+        image: chainin,
+        source_code_link: "https://github.com/usechainin",
+        website_link: "https://chainin.netlify.app/",
+        submission_link: "https://devpost.com/software/chainin"
+    },
+  ];
+
   const newsletters = [
     {
       name: "Sagacious by Dann",
@@ -472,4 +583,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects, newsletters };
+  export { services, technologies, experiences, testimonials, projects, hackathons, newsletters };

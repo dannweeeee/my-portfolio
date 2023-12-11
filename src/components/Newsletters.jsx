@@ -7,7 +7,7 @@ import { SectionWrapper } from '../hoc';
 import { newsletters, projects } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
-const ProjectCard = ({index, name, description, tags, image, source_code_link, website_link}) => {
+const NewsletterCard = ({index, name, description, tags, image, source_code_link, website_link}) => {
   return (
     <motion.div variants={fadeIn("up", "sprint", index * 0.5, 0.75)}>
       <Tilt
@@ -29,13 +29,6 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link, w
               <img 
                 src={hyperlink}
                 alt="hyperlink"
-                className='w-1/2 h-1/2 object-contain'
-              />
-            </div>
-            <div onClick={() => window.open (source_code_link, "_blank")} className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'>
-              <img 
-                src={github}
-                alt="github"
                 className='w-1/2 h-1/2 object-contain'
               />
             </div>
@@ -61,37 +54,31 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link, w
   )
 }
 
-const Works = () => {
+const Newsletters = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>
-          My works
-        </p>
+        <div className='h-10'></div>
         <h2 className={styles.sectionHeadText}>
-          Projects.
+          Newsletter.
         </h2>
       </motion.div>
 
       <div className='w-full flex'>
         <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        Dive into my personalised project portfolio, a showcase of my passion for full-stack web development and smart contract creation 🤩 <br />
+        During my leisure hours, I passionately curate compelling articles, contributing to both my Personal Newsletter and my university&apos;s Blockchain at NTU Club Newsletter. ✍🏼 <br />
         <br />
-        Each project is a unique story 📖 offering a glimpse into my problem-solving journey and the creativity woven into my code 🧑🏻‍💻 
-        Explore the repositories for an intimate look at my work 👷🏻‍♂️ with live websites running and testnet links available ✅ <br />
-        <br />
-        Beyond showcasing technical skills, these endeavors reflect my personal approach to problem-solving and project management 🧑🏻‍💼 
-        Join me on this succinct journey through my projects, revealing the essence of who I am as a developer ⬇️
+        This dual commitment reflects my dedication to fostering knowledge and engagement within the blockchain community. 😆
         </motion.p>
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>
-        {projects.map((project, index) => (
-            <ProjectCard key={`project-${index}`} index={index} {...project} />
+        {newsletters.map((newsletters, index) => (
+            <NewsletterCard key={`newsletters-${index}`} index={index} {...newsletters} />
         ))}
       </div>
     </>
   )
 }
 
-export default SectionWrapper(Works, "works");
+export default SectionWrapper(Newsletters, "newsletters");

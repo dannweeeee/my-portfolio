@@ -5,6 +5,7 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import hyperlink from "./hyperlink.png";
+import submission from "./submission.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -38,6 +39,10 @@ import defistablecoin from "./defistablecoin.png";
 import threads from "./threads.png";
 import dynamicnfts from "./dynamicnfts.png";
 
+import zuko from "./zuko.png";
+import loopso from "./loopso.png";
+import chainin from "./chainin.png";
+
 import adactiveasia_testi from "./testimonials/adactiveasia_testi.jpg";
 import ey_testi from "./testimonials/ey_testi.jpeg";
 
@@ -52,6 +57,7 @@ export {
   web,
   github,
   hyperlink,
+  submission,
   menu,
   close,
   css,
@@ -81,6 +87,9 @@ export {
   defistablecoin,
   threads,
   dynamicnfts,
+  zuko,
+  loopso,
+  chainin,
   adactiveasia_testi,
   ey_testi,
   sagacious,
