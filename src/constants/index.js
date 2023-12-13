@@ -434,7 +434,7 @@ import {
     {
       name: "Zuko",
       description:
-        "A Permissionless, Privacy-Focused social dApp built for ETH Global Online 2023 Hackathon",
+        "A Permissionless, Privacy-Focused Social Communities dApp built for ETH Global Online Hackathon",
         tags: [
           {
             name: "NextJS",
@@ -469,7 +469,7 @@ import {
     {
       name: "LOOPSO",
       description:
-        "A Cross-chain, Bi-directional Bridge Protocol for LUKSO built for buidlbox BuildUp #2 Hackathon ",
+        "A Cross-chain, Bi-directional Bridge Protocol for LUKSO built for Buidlbox BuildUp #2 Hackathon ",
         tags: [
           {
             name: "NextJS",
