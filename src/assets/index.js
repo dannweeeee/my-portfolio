@@ -31,6 +31,7 @@ import elastos from "./company/elastos.png";
 import saf from "./company/saf.png";
 import adactiveasia from "./company/adactiveasia.png";
 import wildchain from "./company/wildchain.png";
+import goodbards from "./company/goodbards.svg";
 
 import metacord from "./metacord.png";
 import notaite from "./notaite.png";
@@ -81,6 +82,7 @@ export {
   saf,
   adactiveasia,
   wildchain,
+  goodbards,
   metacord,
   notaite,
   foodie,

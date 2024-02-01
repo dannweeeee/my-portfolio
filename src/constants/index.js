@@ -24,6 +24,7 @@ import {
     saf,
     adactiveasia,
     wildchain,
+    goodbards,
     metacord,
     notaite,
     foodie,
@@ -199,15 +200,23 @@ import {
       title: "Full Stack Web3 Developer Intern",
       company_name: "Wildchain | Web3",
       icon: wildchain,
-      iconBg: "#E6DEDD",
-      date: "July 2023 - Present",
+      iconBg: "#818589",
+      date: "July 2023 - Jan 2024",
       points: [
-        "I am currently still working as a Full Stack Web3 Developer Intern in Wildchain.",
-        "Part of the Web Development Team of Wildchain that is in charge of developing Wildchain's Web3 Infrastructure",
-        "Developed Wildchain's Multichain Dynamic NFT Marketplace that is built on the Celo Blockchain Network",
-        "Prior to this, I worked on smart contracts for Wildchain's DAO Governance that is in charge of managing the Wildfund Treasury",
-        "I also research and document on Web3 Development Ideas and Concepts to improve the Wildchain's Web3 Infrastructure",
-        "Currently, I am working on the Backend of Wildchain's Web Infrastructure using NodeJS, MongoDB and REST APIs"
+        "I was part of the Development Team of Wildchain that was in charge of developing Wildchain's Full Stack Web3 Infrastructure",
+        "For the Blockchain Developer role, I developed Wildchain's Governance Token (WILD), a Quadratic Funding Pledge Voting Mechanism and a Dynamic Multi-chain NFT Marketplace.",
+        "For the Full Stack Developer role, I developed Wildchain's Frontend Website Components, REST APIs using NestJS and Event Listeners to listen to transactions on the Blockchain.",
+        "Frameworks used include ReactJS, NextJS, NestJS, Solidity, Hardhat, EthersJS, Web3JS, TailwindCSS, and MongoDB."
+      ],
+    },
+    {
+      title: "Full Stack Developer",
+      company_name: "GoodBards | Artificial Intelligence",
+      icon: goodbards,
+      iconBg: "#E6DEDD",
+      date: "Jan 2024 - Present",
+      points: [
+        "Currently working as a Full Stack Developer in GoodBards, a startup that aims to streamline marketing from end-to-end using AI",
       ],
     },
   ];
